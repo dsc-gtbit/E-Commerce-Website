@@ -22,7 +22,7 @@ body
     height: 40px;
     margin: 5px 10px;
 }
-.form-control
+#form-control
 {
     margin-top: 9px;
     margin-left: 30px;
@@ -454,7 +454,45 @@ body
 }
 
 
+    /*--------------css for sign up page starts-----------------*/
+.container2{
+    margin-top: 50px;
+    display: inline-block;
+    width:500px !important;
+    height:400px;
+    
+}
 
+form label{
+    max-width:150px !important;
+   color: #000;
+   margin-top: 15px;
+}
+
+form .form-control{
+    color:#000;
+    margin-top:10px;
+}
+
+.container2 form{
+    margin-left:25px;
+    }
+form h2{
+    margin-top: 25px;
+}
+form span{
+        color: #ff0000;
+        font-size: 14px;
+    }
+.row .btn-success{
+    margin-left: 250px !important;
+    margin-top: 25px;
+    display: inline-block;
+}
+.row .btn{
+    margin-top: 25px;
+    margin-left: 5px;
+}
 
 
 
